@@ -1,0 +1,31 @@
+*{
+  font-size: 35px;
+}
+body{
+  background-color: aqua;
+}
+.nav{
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+ height: 82px;
+  
+}
+.nav a{
+  color: antiquewhite;
+  text-decoration: none;
+  margin: 10%;
+}
+.nav button{
+display: flex;
+margin-left: 88%;
+align-items: center;
+justify-content: center;
+margin-top: -35px;
+/* width: 4%; */
+font-size: smaller;
+
+
+
+
+}
